@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+/* body{
+    background-color:rgb(30, 107, 158);
+} */
+/* element selector */
+/* h1{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#form{
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 20px;
+} */
+
+h1+p{
+    color: rgb(216, 0, 0);
+}

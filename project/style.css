@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+#box{
+    width: 500px;
+    height: 500px;
+    background-color: chartreuse;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+    padding-left: 0px;
+    outline: 10px;
+    outline-offset: blue;
+}
+
+.main{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    margin-top: 50px;
+    
+}
+
+
+
+.table{
+    gap: 0px;
+    align-items: start;
+}
+
+.table table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+table td,tr,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
