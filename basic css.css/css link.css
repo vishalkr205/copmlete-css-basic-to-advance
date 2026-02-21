@@ -1,0 +1,18 @@
+h1{
+    background-color: antiquewhite;
+    color: blue;
+}
+
+h1,p{
+    background-origin: padding-box;
+    background-position-x: center;
+    break-inside: auto;
+    scrollbar-width: auto;
+    color: azure;
+    
+}
+li{
+    background-color: green;
+    color: aqua;
+}
+
