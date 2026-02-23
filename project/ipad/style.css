@@ -23,12 +23,15 @@ body{
 .container{
     width: 350px;
     background-color: rgb(232, 232, 232);
+    align-items: center;
 }
 .container img {
-    width: 350px;
-    height: 400px;
+    width: 270px;
+    height: auto;
     object-fit: cover;
     position: absolute;
+    justify-content: center;
+    align-items: center;
 }
 .up{
     position: relative;
@@ -76,14 +79,14 @@ body{
 }
 
 .memory input[ type="radio"]{
-    appearance: none;
-    /* height: 30px;
-    width: 30px; */
-    /* outline-offset: 2px;
+    /* appearance: none;
+    height: 30px;
+    width: 30px;
+    outline-offset: 2px;
     outline-style: solid;
     outline-color: blue;
-    outline-width: 2px;
-    */
+    outline-width: 2px; */
+   
 }
 
 /* .memory button{

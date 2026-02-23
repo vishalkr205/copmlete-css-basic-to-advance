@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+
+}
+
+p{
+    text-align: right;
+    text-indent: 100px;
+    background-color: chartreuse;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 200px;
+    
+}
