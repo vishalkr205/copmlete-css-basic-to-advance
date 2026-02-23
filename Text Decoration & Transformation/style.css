@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(192, 165, 165);
+}
+
+p{
+    font-size: 40px;
+    text-shadow: 1px 1px 5px green;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+}
+
+p{
+    direction: rtl;
+    writing-mode: horizontal-tb;
+    -webkit-writing-mode: horizontal-tb;
+    -ms-writing-mode: horizontal-tb;
+    text-overflow: clip;
+}
